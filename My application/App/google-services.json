@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564026917990",
+    "project_id": "health-tip-c619d",
+    "storage_bucket": "health-tip-c619d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564026917990:android:3a354e569863d13fc399a7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBInf1m_VwbF7wedE16bZW-atZXXOnEm6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
